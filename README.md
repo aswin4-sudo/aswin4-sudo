@@ -24,8 +24,8 @@ I’m a passionate Embedded Systems and Electronics Engineering undergrad, drive
 -  Federated machine learning for financial fraud detection
 -  Virtual embedded sensor SOC with low power AI anomaly detection
 -  AI based smart energy monitoring system for real time monitor home power consuption using mobile gadgets
--  Smart thuder aware circuit breaker with automated energy recovery mechanism using sound and proximity sensing  
--  Algae Detection System using multispectral satellite imagery
+-  NON-INTRUSIVE load monitoring system
+-  Traffic light controller using verilog 
 
 
 ---
