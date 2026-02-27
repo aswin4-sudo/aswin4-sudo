@@ -12,7 +12,7 @@ I’m a passionate Embedded Systems and Electronics Engineering undergrad, drive
 
 ### 🛠️ Skills
 
-- Languages: Python, C,c++, Verilog HDL,Webdevelopment
+- Languages: Python, Verilog HDL,Webdevelopment
 - Tools & Platforms: ESP32, STM32, LTspice, Tinkercad, Wokwi(ESP32,Arduino),ARM Cortex-M(via keil uvision simulation), Edaplayground,Eacy EDA,Microwind
 - Domains: Embedded Systems, IoT, Image Processing, Machine Learning
 - Protocols: UART, SPI, I2C, GPIO, PWM
