@@ -4,7 +4,7 @@ I’m a passionate Electronics & Communication Engineering undergraduate with a 
 
 I specialize in building **scalable, automated, and cloud-native applications**, with hands-on experience in deploying real-world systems using modern DevOps practices.
 
-- 🎓 B.Tech in ECE – TKM College of Engineering (CGPA: 7.93)  
+- 🎓 B.Tech in ECE – TKM College of Engineering 
 - ☁️ Hands-on experience with AWS (EC2, S3, IAM, RDS, Lambda)  
 - ⚙️ DevOps enthusiast (Docker, CI/CD, GitHub Actions)  
 - 🧠 Background in Machine Learning and backend development  
