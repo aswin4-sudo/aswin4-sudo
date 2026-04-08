@@ -2,13 +2,14 @@
 
 I’m a passionate Electronics & Communication Engineering undergraduate with a strong focus on **Cloud Computing and DevOps**.
 
-I specialize in building **scalable, automated, and cloud-native applications**, with hands-on experience in deploying real-world systems using modern DevOps practices.
+I specialize in building **scalable, automated, and cloud-native applications**, with hands-on experience in designing real-world systems using modern DevOps tools and practices.
 
-- 🎓 B.Tech in ECE – TKM College of Engineering 
+- 🎓 B.Tech in ECE – TKM College of Engineering  
 - ☁️ Hands-on experience with AWS (EC2, S3, IAM, RDS, Lambda)  
-- ⚙️ DevOps enthusiast (Docker, CI/CD, GitHub Actions)  
+- ⚙️ DevOps enthusiast (Docker, Jenkins, CI/CD, Ansible, Terraform)  
+- 🔍 Code quality & security using SonarCloud  
 - 🧠 Background in Machine Learning and backend development  
-- 🚀 Interested in building scalable and production-ready systems  
+- 🚀 Interested in building scalable, production-ready systems  
 
 ---
 
@@ -21,32 +22,39 @@ I specialize in building **scalable, automated, and cloud-native applications**,
 **☁️ Cloud & DevOps**
 - AWS: EC2, S3, IAM, RDS, Lambda  
 - Docker (Containerization)  
-- CI/CD (GitHub Actions)  
+- Jenkins (CI/CD Pipeline Automation)  
+- Ansible (Configuration & Deployment Automation)  
+- Terraform (Infrastructure as Code - Basics)  
+- SonarCloud (Code Quality & Security Analysis)  
 - Linux System Administration  
-- Deployment & Automation  
 
 **🗄️ Databases & Tools**
 - PostgreSQL  
-- VS Code, Git, GitHub  
+- Git, GitHub, VS Code  
 
 ---
 
 ### 🔭 Projects
 
 - 🚀 **Auto-Deploy Flask App using CI/CD**  
-  Built a Flask application with Docker containerization and automated deployment using GitHub Actions. Deployed on AWS EC2 with secure IAM configuration.
+  Designed a complete CI/CD pipeline using Jenkins, Docker, and Ansible to automate build, test, and deployment processes. Integrated SonarCloud for code quality checks and deployed the application on AWS EC2.  
+  Built using a 2-EC2 architecture separating DevOps and application environments for better scalability and maintainability.
 
 - ☁️ **AI-Based Smart Energy Monitoring System**  
-  Developed a cloud-integrated system with real-time data processing using Flask backend, PostgreSQL, and live dashboard (<1s latency).
+  Developed a cloud-based real-time monitoring system using Flask backend and PostgreSQL database. Implemented efficient data handling and visualization with near real-time updates (<1s latency).  
+  Designed for scalable deployment and integration with IoT devices like ESP32.
 
 - 🧠 **Virtual Embedded Sensor SoC with AI Anomaly Detection**  
-  Designed a virtual sensor system that simulates real-time data streams and performs anomaly detection using lightweight ML models. Integrated backend processing and designed it for scalable deployment in cloud environments.
+  Built a virtual embedded system that simulates real-time sensor data and detects anomalies using lightweight machine learning models.  
+  Integrated backend processing and structured it for scalable cloud deployment and monitoring.
 
 - 📊 **Federated Learning for Financial Fraud Detection**  
-  Built a privacy-preserving ML model using TensorFlow across distributed datasets.
+  Developed a privacy-preserving machine learning model using TensorFlow across distributed datasets.  
+  Focused on secure data sharing and decentralized training for fraud detection in financial systems.
 
 - ⚡ **Non-Intrusive Load Monitoring System (NILM)**  
-  Developed an LSTM-based model achieving high accuracy in energy consumption prediction.
+  Implemented an LSTM-based deep learning model for energy consumption prediction and appliance-level monitoring.  
+  Achieved high accuracy and optimized performance for real-world smart grid applications.
 
 ---
 
@@ -61,7 +69,7 @@ I specialize in building **scalable, automated, and cloud-native applications**,
 
 ### 🧩 Strength
 
-Strong ability to design and deploy **scalable cloud applications** with automation and real-time data handling.
+Strong ability to design and deploy **end-to-end cloud-based systems** with automation, scalability, and real-time data processing using modern DevOps tools.
 
 ---
 
