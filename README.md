@@ -6,8 +6,7 @@ I specialize in building **scalable, automated, and cloud-native applications**,
 
 - 🎓 B.Tech in ECE – TKM College of Engineering  
 - ☁️ Hands-on experience with AWS (EC2, S3, IAM, RDS, Lambda)  
-- ⚙️ DevOps enthusiast (Docker, Jenkins, CI/CD, Ansible, Terraform)  
-- 🔍 Code quality & security using SonarCloud  
+- ⚙️ DevOps enthusiast  
 - 🧠 Background in Machine Learning and backend development  
 - 🚀 Interested in building scalable, production-ready systems  
 
