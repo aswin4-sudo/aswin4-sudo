@@ -59,10 +59,9 @@ I specialize in building **scalable, automated, and cloud-native applications**,
 
 ### 📡 Interests
 
-- Cloud Architecture  
-- DevOps & Automation  
-- CI/CD Pipelines  
-- Scalable Backend Systems  
+- Cloud Management 
+- DevOps & Automation    
+- Web development 
 
 ---
 
