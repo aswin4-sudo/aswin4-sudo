@@ -1,14 +1,14 @@
 ### 🚀 About Me
 
-I’m a passionate Electronics & Communication Engineering undergraduate with a strong focus on **Cloud Computing and DevOps**.
+I’m a passionate Electronics & Communication Engineering undergraduate with a strong focus on **Python development and Machine Learning**, along with hands-on exposure to **Cloud and DevOps technologies**.
 
-I specialize in building **scalable, automated, and cloud-native applications**, with hands-on experience in designing real-world systems using modern DevOps tools and practices.
+I specialize in building **real-world intelligent applications**, including AI-based systems for energy monitoring and fraud detection, with experience in working on real-time data, model development, and backend integration.
 
 - 🎓 B.Tech in ECE – TKM College of Engineering  
-- ☁️ Hands-on experience with AWS (EC2, S3, IAM, RDS, Lambda)  
-- ⚙️ DevOps enthusiast  
-- 🧠 Background in Machine Learning and backend development  
-- 🚀 Interested in building scalable, production-ready systems  
+- 💻 Strong in Python, backend development, and AI/ML applications  
+- 🧠 Experience with Machine Learning, Deep Learning, NILM, and federated learning  
+- ☁️ Hands-on exposure to AWS (EC2, S3, IAM, RDS, Lambda), Docker, and CI/CD pipelines  
+- 🚀 Interested in building scalable, AI-driven, production-ready systems  
 
 ---
 
@@ -17,6 +17,11 @@ I specialize in building **scalable, automated, and cloud-native applications**,
 **💻 Programming & Development**
 - Python, JavaScript, HTML, CSS  
 - Flask (Backend Development), REST APIs  
+
+**🧠 Machine Learning & AI**
+- Scikit-learn, TensorFlow  
+- Deep Learning (LSTM), NLP  
+- Model Evaluation, Feature Engineering  
 
 **☁️ Cloud & DevOps**
 - AWS: EC2, S3, IAM, RDS, Lambda  
@@ -36,38 +41,34 @@ I specialize in building **scalable, automated, and cloud-native applications**,
 ### 🔭 Projects
 
 - 🚀 **Auto-Deploy Flask App using CI/CD**  
-  Designed a complete CI/CD pipeline using Jenkins, Docker, and Ansible to automate build, test, and deployment processes. Integrated SonarCloud for code quality checks and deployed the application on AWS EC2.  
-  Built using a 2-EC2 architecture separating DevOps and application environments for better scalability and maintainability.
+  Designed a complete CI/CD pipeline using Jenkins, Docker, and Ansible to automate build, test, and deployment processes. Integrated SonarCloud for code quality checks and deployed the application on AWS EC2. Built using a 2-EC2 architecture separating DevOps and application environments for better scalability and maintainability.
 
 - ☁️ **AI-Based Smart Energy Monitoring System**  
-  Developed a cloud-based real-time monitoring system using Flask backend and PostgreSQL database. Implemented efficient data handling and visualization with near real-time updates (<1s latency).  
-  Designed for scalable deployment and integration with IoT devices like ESP32.
+  Developed a real-time AI-based monitoring system using Flask backend and PostgreSQL database with near real-time updates (<1s latency). Applied NILM techniques (LSTM, FHMM) for appliance-level energy disaggregation and integrated AI insights for intelligent energy usage analysis.
 
 - 🧠 **Virtual Embedded Sensor SoC with AI Anomaly Detection**  
-  Built a virtual embedded system that simulates real-time sensor data and detects anomalies using lightweight machine learning models.  
-  Integrated backend processing and structured it for scalable cloud deployment and monitoring.
+  Built a virtual embedded system simulating real-time sensor data and detecting anomalies using machine learning models. Integrated backend processing and structured the system for scalable deployment and monitoring.
 
 - 📊 **Federated Learning for Financial Fraud Detection**  
-  Developed a privacy-preserving machine learning model using TensorFlow across distributed datasets.  
-  Focused on secure data sharing and decentralized training for fraud detection in financial systems.
+  Developed a privacy-preserving machine learning model using TensorFlow across distributed datasets. Applied SMOTE for imbalance handling and achieved strong performance using secure federated averaging.
 
 - ⚡ **Non-Intrusive Load Monitoring System (NILM)**  
-  Implemented an LSTM-based deep learning model for energy consumption prediction and appliance-level monitoring.  
-  Achieved high accuracy and optimized performance for real-world smart grid applications.
+  Implemented an LSTM-based deep learning model for energy consumption prediction and appliance-level monitoring, achieving high accuracy and optimized performance for real-world applications.
 
 ---
 
 ### 📡 Interests
 
-- Cloud Management 
-- DevOps & Automation    
-- Web development 
+- Python Development  
+- Machine Learning & AI  
+- Backend Development  
+- Cloud Integration  
 
 ---
 
 ### 🧩 Strength
 
-Strong ability to design and deploy **end-to-end cloud-based systems** with automation, scalability, and real-time data processing using modern DevOps tools.
+Strong ability to design and develop **end-to-end AI-driven applications** using Python, integrating machine learning models with backend systems and deploying scalable solutions using cloud and DevOps tools.
 
 ---
 
