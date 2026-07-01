@@ -1,6 +1,6 @@
 ### 🚀 About Me
 
-I’m a passionate Electronics & Communication Engineering undergraduate with a strong focus on **Artifitial Intelligence , Python development and Machine Learning**, along with hands-on exposure to **Cloud and DevOps technologies**.
+I’m a passionate Electronics & Communication Engineering undergraduate with a strong focus on **Artificial Intelligence, Python development and Machine Learning**, along with hands-on exposure to **Cloud and DevOps technologies**.
 
 I specialize in building **real-world intelligent applications**, including AI-based systems for energy monitoring and fraud detection, with experience in working on real-time data, model development, and backend integration.
 
