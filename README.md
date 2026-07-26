@@ -2,76 +2,90 @@
 
 ## 🚀 About Me
 
-I am an Electronics and Communication Engineering graduate with a strong interest in **Embedded Systems, Electronics Design, IoT, Firmware Development, Web Development, Artificial Intelligence, Machine Learning, and Cloud Technologies**.
+I am an **Electronics and Communication Engineering graduate** passionate about **Embedded Systems, Firmware Development, Electronics Design, IoT, and Hardware-Software Integration**. I enjoy designing intelligent embedded solutions by combining embedded hardware, microcontrollers, communication protocols, and software to solve real-world engineering challenges.
 
-I enjoy developing intelligent embedded solutions, AI-powered applications, and cloud-connected systems that solve real-world engineering challenges. My experience includes embedded hardware, Python programming, backend development, communication protocols, and AI integration for connected devices.
+My experience includes developing embedded applications using **ESP32, C/C++, Python, Verilog, TinyML, and communication protocols**, with additional exposure to **Artificial Intelligence, Machine Learning, Web Development, and Cloud Technologies** for connected and intelligent embedded systems.
 
-I am a continuous learner who enjoys solving complex engineering problems, exploring emerging technologies, and building reliable, scalable, and innovative solutions.
+I am a continuous learner who enjoys exploring emerging technologies, solving complex engineering problems, and building reliable, efficient, and innovative embedded solutions.
 
 - 🎓 B.Tech in Electronics & Communication Engineering
 - 📘 Minor Degree in Python, Machine Learning & Deep Learning
-- 🔧 Interested in Embedded Systems, IoT, Firmware Development, AI/ML, Web Development, and Cloud Computing
+- 🔧 Passionate about Embedded Systems, Firmware Development, IoT, Electronics Design, AI/ML, and Edge AI
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
+- C
+- C++
 - Python
-- C/C++
 - Verilog
-- Assembly (ARM)
+- ARM Assembly
 
 ### ⚙️ Embedded Systems & Electronics
 - Embedded Systems
+- Firmware Development
 - ESP32
-- IoT Development
+- Microcontrollers
+- Embedded C
+- Hardware-Software Integration
+- Sensor Interfacing
 - Digital Electronics
 - Analog Electronics
-- Microcontrollers
-- Firmware Development
-- Sensor Interfacing
-- UART, SPI, I2C, CAN, USB, MQTT, Ethernet
-- Hardware-Software Integration
+- PCB Design (EasyEDA)
 - TinyML
+- Real-Time Embedded Applications
 
-### 🧠 Artificial Intelligence & Machine Learning
+### 🔌 Communication Protocols
+- UART
+- SPI
+- I2C
+- CAN
+- USB
+- MQTT
+- Ethernet
+
+### 🧠 Artificial Intelligence & Edge AI
 - Machine Learning
 - Deep Learning
 - TensorFlow
+- TinyML
 - Federated Learning
-- Non-Intrusive Load Monitoring (NILM)
-- Data Analysis
+- Non-Intrusive Load Monitoring
 
-### 🗄️ Databases & Tools
-- PostgreSQL
-- Git
-- GitHub
+
+### 🛠️ Tools
 - VS Code
-- Oscilloscope
-- LTspice
-- TinkerCAD
+- Git
 - ModelSim
-- EasyEDA
+- LTspice
 - MATLAB
+- EasyEDA
+- TinkerCAD
+- Oscilloscope
 
 ---
 
 ## 📡 Areas of Interest
 
 - Embedded Systems
-- Electronics Design
 - Firmware Development
+- Electronics Design
+- Embedded AI (TinyML)
 - Internet of Things (IoT)
-- Artificial Intelligence & Machine Learning
-- Web Development
-- Cloud Computing
+- Edge Computing
+- VLSI & Digital Design
+- Hardware Validation
+- Communication Protocols
+- AI/ML for Embedded Applications
 
 ---
 
 ## 📬 Connect with Me
 
-📧 **Email:** aswinmeachur123@gmail.com
+📧 **Email:**  
+**aswinmeachur123@gmail.com**
 
 💼 **LinkedIn:**  
 https://www.linkedin.com/in/aswin-m-5b3a94282/
