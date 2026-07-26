@@ -18,9 +18,9 @@ I am a continuous learner who enjoys solving complex engineering problems, explo
 
 ### 💻 Programming Languages
 - Python
-- C
+- C/C++
 - Verilog
-- SQL
+- Assembly (ARM)
 
 ### ⚙️ Embedded Systems & Electronics
 - Embedded Systems
@@ -31,7 +31,7 @@ I am a continuous learner who enjoys solving complex engineering problems, explo
 - Microcontrollers
 - Firmware Development
 - Sensor Interfacing
-- UART, SPI, I2C
+- UART, SPI, I2C, CAN, USB, MQTT, Ethernet
 - Hardware-Software Integration
 - TinyML
 
@@ -39,33 +39,21 @@ I am a continuous learner who enjoys solving complex engineering problems, explo
 - Machine Learning
 - Deep Learning
 - TensorFlow
-- Scikit-learn
 - Federated Learning
 - Non-Intrusive Load Monitoring (NILM)
 - Data Analysis
-
-### 🌐 Web Development
-- Flask
-- REST APIs
-- Backend Development
-- Frontend Development
-
-### ☁️ Cloud & DevOps
-- AWS (EC2, S3, IAM, RDS, Lambda)
-- Docker
-- Jenkins
-- Ansible
-- Terraform (Basics)
-- SonarCloud
-- Linux
 
 ### 🗄️ Databases & Tools
 - PostgreSQL
 - Git
 - GitHub
 - VS Code
+- Oscilloscope
+- LTspice
+- TinkerCAD
 - ModelSim
 - EasyEDA
+- MATLAB
 
 ---
 
@@ -78,20 +66,6 @@ I am a continuous learner who enjoys solving complex engineering problems, explo
 - Artificial Intelligence & Machine Learning
 - Web Development
 - Cloud Computing
-- Backend Development
-
----
-
-## 💡 Strengths
-
-- Embedded System Design
-- Hardware-Software Integration
-- AI-Enabled Embedded Solutions
-- IoT Application Development
-- Backend Development with Python
-- Problem Solving
-- Continuous Learning
-- Team Collaboration
 
 ---
 
