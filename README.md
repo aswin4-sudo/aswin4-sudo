@@ -4,7 +4,7 @@
 
 I am an **Electronics and Communication Engineering graduate** passionate about **Embedded Systems, Firmware Development, Electronics Design, IoT, and Hardware-Software Integration**. I enjoy designing intelligent embedded solutions by combining embedded hardware, microcontrollers, communication protocols, and software to solve real-world engineering challenges.
 
-My experience includes developing embedded applications using **ESP32, C/C++, Python, Verilog, TinyML, and communication protocols**, with additional exposure to **Artificial Intelligence, Machine Learning, Web Development, and Cloud Technologies** for connected and intelligent embedded systems.
+My experience includes developing embedded applications using **C/C++, Python, Verilog, TinyML, and communication protocols**, with additional exposure to **Artificial Intelligence, Machine Learning, Web Development, and Cloud Technologies** for connected and intelligent embedded systems.
 
 I am a continuous learner who enjoys exploring emerging technologies, solving complex engineering problems, and building reliable, efficient, and innovative embedded solutions.
 
@@ -26,16 +26,14 @@ I am a continuous learner who enjoys exploring emerging technologies, solving co
 ### ⚙️ Embedded Systems & Electronics
 - Embedded Systems
 - Firmware Development
-- ESP32
 - Microcontrollers
 - Embedded C
 - Hardware-Software Integration
 - Sensor Interfacing
 - Digital Electronics
 - Analog Electronics
-- PCB Design (EasyEDA)
 - TinyML
-- Real-Time Embedded Applications
+- FreeRTOS
 
 ### 🔌 Communication Protocols
 - UART
@@ -56,9 +54,14 @@ I am a continuous learner who enjoys exploring emerging technologies, solving co
 
 
 ### 🛠️ Tools
+
+- STM32CubeIDE
+- Renode
+- Wokwi
 - VS Code
 - Git
 - ModelSim
+- KiCad
 - LTspice
 - MATLAB
 - EasyEDA
@@ -75,7 +78,6 @@ I am a continuous learner who enjoys exploring emerging technologies, solving co
 - Embedded AI (TinyML)
 - Internet of Things (IoT)
 - Edge Computing
-- VLSI & Digital Design
 - Hardware Validation
 - Communication Protocols
 - AI/ML for Embedded Applications
